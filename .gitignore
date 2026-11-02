@@ -1,0 +1,13 @@
+# Private settings: your Apple Team ID and bundle identifier
+Local.xcconfig
+
+# Personal Xcode state, which contains your Mac username
+xcuserdata/
+*.xcuserstate
+
+# Build output
+build/
+DerivedData/
+
+# Mac
+.DS_Store

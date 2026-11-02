@@ -1,0 +1,5 @@
+// Neutral defaults. Your own values go in Local.xcconfig, which git ignores.
+PRODUCT_BUNDLE_IDENTIFIER = com.example.stapel
+DEVELOPMENT_TEAM =
+
+#include? "Local.xcconfig"

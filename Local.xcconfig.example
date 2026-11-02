@@ -1,0 +1,5 @@
+// Copy this file to Local.xcconfig and fill in your own values. Git ignores Local.xcconfig.
+// Team ID: Xcode > Settings > Apple Accounts > Manage Certificates, or developer.apple.com/account.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+// Must be unique to you. Reverse-domain style, for example com.yourname.stapel.
+PRODUCT_BUNDLE_IDENTIFIER = com.yourname.stapel
